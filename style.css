@@ -1,0 +1,135 @@
+.first{
+    color:rgb(3, 126, 126);
+    font-size:30px;
+    font-family: "Irish Grover", system-ui;
+    text-align: center;
+}
+#a{
+text-align: center;
+color:aliceblue;
+background-color: blueviolet;
+border-radius: 4cap;
+font-family: "Irish Grover", system-ui;
+}
+
+.de{
+    text-decoration: none;
+    color:white;
+}
+.di{
+ text-decoration: none;
+ color:white;
+}
+.dm{
+    text-decoration: none;
+ color:white;
+}
+
+#im{
+    width:200px ;
+    height:200px;
+    border-radius: 50% ;
+position: relative;
+top:150px;
+left:300px;
+}
+
+#sad{
+    width:200px;
+    height: 200px;
+   border-radius: 50%; 
+   position: relative;
+   top:150px;
+   left:500px;
+}
+#hassan{
+    width:200px;
+    height: 200px;
+   border-radius: 50%; 
+   position: relative;
+   top:150px;
+   left:700px;
+}
+.fam{
+    font-family: "Irish Grover", system-ui;
+  text-align: center;
+  color:blueviolet;
+}
+.rr{
+    font-family: "Irish Grover", system-ui;
+    text-align: center;
+    color:rgb(225, 225, 225);
+  background-color: blueviolet;
+  border-radius: 30px;
+} 
+#fr  {
+color:rgb(107, 10, 197);
+font-family: "Alexandria", sans-serif;
+
+}
+#sc{
+    color :rgb(129, 39, 212);
+    font-family: "Alexandria", sans-serif;
+
+}
+
+#thi{
+    color:blueviolet;
+    font-family: "Alexandria", sans-serif;
+    
+}
+#for{
+    color:blueviolet;
+    font-family: "Alexandria", sans-serif;
+
+}
+#ui{
+    width: 150px;
+    height:200px;
+position: relative;
+top:20px;
+left:250px;
+border-radius: 60%;
+}
+.news-container{
+    color:blueviolet;
+    position: relative;
+    top:-30px;
+background-color: rgb(217, 221, 222);
+border-radius: 20px;
+text-align: center;
+}
+.news-item2{
+    color:rgb(102, 29, 170);
+text-align: left;
+}
+.news-item3{
+    color:rgb(102, 29, 170);
+    text-align: left;
+}
+.news-item4{
+    color:rgb(102, 29, 170);
+    text-align: left;
+}
+#pp{
+    text-decoration: none;
+color: blueviolet;
+position: relative;
+top:100px;
+position: relative;
+
+}
+#subs{
+    width:600px;
+height:700px;
+border-radius: 20px;
+position: relative;
+top:10px;
+left:450px;
+}
+#btw{
+  width: 400px;
+    position: relative;
+    top:15px;
+    left:500px;
+}
